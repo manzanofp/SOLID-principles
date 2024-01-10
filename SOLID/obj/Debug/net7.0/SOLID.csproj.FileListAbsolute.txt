@@ -1,0 +1,5 @@
+D:\dev\projects\ws-study\CsharpDotNet\SOLID-principles\SOLID\obj\Debug\net7.0\SOLID.csproj.AssemblyReference.cache
+D:\dev\projects\ws-study\CsharpDotNet\SOLID-principles\SOLID\obj\Debug\net7.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\projects\ws-study\CsharpDotNet\SOLID-principles\SOLID\obj\Debug\net7.0\SOLID.AssemblyInfoInputs.cache
+D:\dev\projects\ws-study\CsharpDotNet\SOLID-principles\SOLID\obj\Debug\net7.0\SOLID.AssemblyInfo.cs
+D:\dev\projects\ws-study\CsharpDotNet\SOLID-principles\SOLID\obj\Debug\net7.0\SOLID.csproj.CoreCompileInputs.cache
